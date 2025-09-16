@@ -12,7 +12,7 @@ URL = "https://sent.bio/alquis"
 # This is the target number of visits for EACH platform.
 # Start with 20. If your workflow finishes in less than 50 seconds, increase it.
 # If it takes more than 60 seconds, decrease it.
-TOTAL_VISITS_PER_PLATFORM = 50
+TOTAL_VISITS_PER_PLATFORM = 75
 
 # A list of resource types to block to speed up page loading.
 BLOCKED_RESOURCE_TYPES = [
