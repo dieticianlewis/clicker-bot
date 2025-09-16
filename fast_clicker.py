@@ -11,7 +11,7 @@ URL = "https://sent.bio/alquis"
 # --- IMPORTANT: TUNE THIS NUMBER ---
 # With asyncio, you can likely push this number even higher.
 # Start with 250 and adjust based on your workflow's run time.
-TOTAL_VISITS_PER_PLATFORM = 250
+TOTAL_VISITS_PER_PLATFORM = 230
 
 # A list of resource types to block to speed up page loading.
 BLOCKED_RESOURCE_TYPES = [
