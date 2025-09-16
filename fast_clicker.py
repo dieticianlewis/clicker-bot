@@ -11,7 +11,7 @@ URL = "https://sent.bio/alquis"
 # --- IMPORTANT: TUNE THIS NUMBER ---
 # Start with a lower number like 40, as launching browsers is intensive.
 # If your workflow finishes in less than 50 seconds, increase it.
-TOTAL_VISITS_PER_PLATFORM = 40
+TOTAL_VISITS_PER_PLATFORM = 200
 
 # A list of resource types to block to speed up page loading.
 BLOCKED_RESOURCE_TYPES = [
